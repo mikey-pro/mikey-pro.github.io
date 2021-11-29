@@ -1,0 +1,41 @@
+{
+  "name": "mikey-pro.github.io",
+  "version": "0.0.1",
+  "description": "Style Guide + Theme",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "devDependencies": {
+    "@mikey-pro/style-guide": "^3.0.16",
+    "eslint": "^8.3.0",
+    "prettier": "^2.5.0",
+    "stylelint": "^14.1.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikey-pro/mikey-pro.github.io.git"
+  },
+  "homepage": "https://github.com/mikey-pro/mikey-pro.github.io#readme",
+  "author": "me",
+  "bugs": {
+    "url": "https://github.com/mikey-pro/mikey-pro.github.io/issues"
+  },
+  "keywords": [
+    "mikey-pro",
+    "mikey",
+    "pro",
+    "style-guide",
+    "style",
+    "guide",
+    "theme"
+  ],
+  "prettier": "@mikey-pro/prettier-config",
+  "eslintConfig": {
+    "extends": "@mikey-pro/eslint-config"
+  },
+  "stylelint": {
+    "extends": "@mikey-pro/stylelint-config"
+  }
+}
