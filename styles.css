@@ -35,4 +35,8 @@
   overflow-wrap: break-word;
   text-size-adjust: 100%;
   unicode-bidi: isolate;
+  text-decoration-color: rgb(178, 148, 187);
+  text-decoration-line: none;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
 }
