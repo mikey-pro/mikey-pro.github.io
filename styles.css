@@ -9,6 +9,9 @@
   line-height: 40px;
   color: rgb(204, 204, 204);
   tab-size: 4;
+  border-bottom-color: rgb(52, 52, 52);
+  border-bottom-style: solid;
+  border-bottom-width: 0.994318px;
   color-scheme: dark;
   overflow-wrap: break-word;
   text-size-adjust: 100%;

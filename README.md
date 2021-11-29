@@ -11,5 +11,4 @@
     <img src="img/mikey-pro-logo.svg" style="height: 75px" alt="Mikey Pro Logo" />
   </a>
   <br />
-
 </div>
