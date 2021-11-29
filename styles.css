@@ -1,0 +1,15 @@
+.title {
+  display: inline;
+  width: auto;
+  height: auto;
+  box-sizing: border-box;
+  font-family: -apple-system, 'system-ui', 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 40px;
+  color: rgb(204, 204, 204);
+  tab-size: 4;
+  color-scheme: dark;
+  overflow-wrap: break-word;
+  text-size-adjust: 100%;
+}
