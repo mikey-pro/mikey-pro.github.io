@@ -1,45 +1,7 @@
 .title {
-  display: inline;
-  width: auto;
-  height: auto;
-  box-sizing: border-box;
-  font-family: -apple-system, 'system-ui', 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-  font-size: 32px;
-  font-weight: 600;
-  line-height: 40px;
-  color: rgb(204, 204, 204);
-  tab-size: 4;
-  border-bottom-color: rgb(52, 52, 52);
-  border-bottom-style: solid;
-  border-bottom-width: 0.994318px;
-  color-scheme: dark;
-  overflow-wrap: break-word;
-  text-size-adjust: 100%;
+  display: none;
 }
 
 .desc {
-  display: block;
-  width: 830.071px;
-  height: 25px;
-  box-sizing: border-box;
-  margin-top: 24px;
-  margin-bottom: 16px;
-  font-family: -apple-system, 'system-ui', 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-  font-size: 20px;
-  font-weight: 600;
-  line-height: 25px;
-  color: rgb(204, 204, 204);
-  tab-size: 4;
-  color-scheme: dark;
-  margin-block-end: 16px;
-  margin-block-start: 24px;
-  margin-inline-end: 0;
-  margin-inline-start: 0;
-  overflow-wrap: break-word;
-  text-size-adjust: 100%;
-  unicode-bidi: isolate;
-  text-decoration-color: rgb(178, 148, 187);
-  text-decoration-line: none;
-  text-decoration-style: solid;
-  text-decoration-thickness: auto;
+  display: none;
 }
